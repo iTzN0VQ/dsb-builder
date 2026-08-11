@@ -2,7 +2,7 @@
 
 A Claude skill that builds Mitsubishi Diamond System Builder (DSB) projects from a phone photo of a handwritten Field Survey Checklist. Output: a saved `.dsbx` project file and an exported PDF submittal, dropped back to the contractor's phone via chat.
 
-> Built by [Rizvan Fazli](https://github.com/iTzN0VQ) — Mitsubishi-certified lead HVAC tech.
+> Built by [Rizvan Fazli](https://github.com/iTzN0VQ) — Mitsubishi HVAC tech.
 > Part of [NovaCTRL.ai](https://novactrl.ai).
 
 ---
